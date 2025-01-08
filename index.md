@@ -1,4 +1,3 @@
 ---
-title: Welcome to Orchid Consulting Ltd website
+layout: home
 ---
-
